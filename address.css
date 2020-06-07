@@ -63,7 +63,7 @@ button {
 }
 
 ::placeholder {
-    background-color: tan;
+    color: black;
     background-position: center;
     display: flex;
     justify-content: center;
