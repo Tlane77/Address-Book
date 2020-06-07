@@ -1,0 +1,73 @@
+body {
+  background-color: antiquewhite;
+  font-display: Cursive;
+  border-style: solid;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  border-color: slategrey;
+  border-width: 20px;
+  font-size: xx-large;
+  border-style: groove;
+  border-radius: round;
+}
+
+h1 {
+  font-family: cursive;
+  display: flex;
+  justify-content: center;
+}
+
+fieldset {
+  display: flex;
+  background-color: cornflowerblue;
+  border-style: groove;
+  border-width: 20px;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+label {
+  font-display: center;
+  color: black;
+  font-family: cursive;
+  font-size: 20px;
+  font-weight: bolder;
+  background-color: cornsilk;
+  border-style: groove;
+  border-width: 10px;
+  width: 50%;
+  border-radius: round;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+input {
+  background-color: lightsteelblue;
+  height: 4em;
+  border-width: 10px;
+  width: 50%;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-weight: bolder;
+  color: black;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+button {
+  background-color: lightyellow;
+  font-weight: bolder;
+  border-radius: 20px;
+}
+
+::placeholder {
+    background-color: tan;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    border-radius: 20%;
+    
+}
